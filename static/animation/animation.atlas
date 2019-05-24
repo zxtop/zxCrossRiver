@@ -1,0 +1,405 @@
+
+animation.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Flash 011 Impact Explosion Radial_00001
+  rotate: false
+  xy: 292, 308
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+Flash 011 Impact Explosion Radial_00002
+  rotate: false
+  xy: 222, 288
+  size: 68, 67
+  orig: 68, 67
+  offset: 0, 0
+  index: -1
+Flash 011 Impact Explosion Radial_00003
+  rotate: false
+  xy: 118, 91
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+Flash 011 Impact Explosion Radial_00004
+  rotate: false
+  xy: 120, 173
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+Flash 011 Impact Explosion Radial_00005
+  rotate: false
+  xy: 120, 266
+  size: 100, 99
+  orig: 100, 99
+  offset: 0, 0
+  index: -1
+Flash 011 Impact Explosion Radial_00006
+  rotate: false
+  xy: 859, 818
+  size: 107, 107
+  orig: 107, 107
+  offset: 0, 0
+  index: -1
+Flash 011 Impact Explosion Radial_00007
+  rotate: false
+  xy: 515, 757
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+Flash 011 Impact Explosion Radial_00008
+  rotate: false
+  xy: 250, 357
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+Flash 011 Impact Explosion Radial_00009
+  rotate: false
+  xy: 391, 732
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+Flash 011 Impact Explosion Radial_00010
+  rotate: false
+  xy: 264, 603
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+Flash 011 Impact Explosion Radial_00011
+  rotate: false
+  xy: 264, 729
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+Flash 011 Impact Explosion Radial_00012
+  rotate: false
+  xy: 264, 477
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+Flash 011 Impact Explosion Radial_00013
+  rotate: true
+  xy: 126, 367
+  size: 121, 122
+  orig: 121, 122
+  offset: 0, 0
+  index: -1
+Flash 011 Impact Explosion Radial_00014
+  rotate: false
+  xy: 745, 813
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+Flash 011 Impact Explosion Radial_00015
+  rotate: false
+  xy: 630, 812
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+Flash 011 Impact Explosion Radial_00016
+  rotate: false
+  xy: 2, 73
+  size: 114, 114
+  orig: 114, 114
+  offset: 0, 0
+  index: -1
+Flash 011 Impact Explosion Radial_00017
+  rotate: false
+  xy: 2, 189
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+chuan0001
+  rotate: true
+  xy: 70, 391
+  size: 463, 54
+  orig: 463, 54
+  offset: 0, 0
+  index: -1
+chuan0002
+  rotate: false
+  xy: 498, 927
+  size: 487, 93
+  orig: 487, 93
+  offset: 0, 0
+  index: -1
+chuan0003
+  rotate: false
+  xy: 2, 856
+  size: 494, 164
+  orig: 494, 164
+  offset: 0, 0
+  index: -1
+chuan0004
+  rotate: true
+  xy: 2, 307
+  size: 547, 66
+  orig: 547, 66
+  offset: 0, 0
+  index: -1
+guaiwu0001
+  rotate: true
+  xy: 2, 9
+  size: 62, 86
+  orig: 62, 86
+  offset: 0, 0
+  index: -1
+guaiwu0002
+  rotate: false
+  xy: 987, 878
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+guaiwu0003
+  rotate: true
+  xy: 370, 339
+  size: 136, 32
+  orig: 136, 32
+  offset: 0, 0
+  index: -1
+guaiwu0004
+  rotate: false
+  xy: 126, 616
+  size: 136, 238
+  orig: 136, 238
+  offset: 0, 0
+  index: -1
+guaiwu0005
+  rotate: false
+  xy: 407, 646
+  size: 61, 84
+  orig: 61, 84
+  offset: 0, 0
+  index: -1
+guaiwu0006
+  rotate: false
+  xy: 341, 310
+  size: 27, 45
+  orig: 27, 45
+  offset: 0, 0
+  index: -1
+guaiwu0007
+  rotate: false
+  xy: 498, 872
+  size: 122, 53
+  orig: 122, 53
+  offset: 0, 0
+  index: -1
+guaiwu0008
+  rotate: true
+  xy: 90, 9
+  size: 62, 22
+  orig: 62, 22
+  offset: 0, 0
+  index: -1
+guaiwu0008_1
+  rotate: false
+  xy: 118, 76
+  size: 63, 13
+  orig: 63, 13
+  offset: 0, 0
+  index: -1
+guaiwu0009
+  rotate: false
+  xy: 2, 2
+  size: 52, 5
+  orig: 52, 5
+  offset: 0, 0
+  index: -1
+guaiwu0009_1
+  rotate: true
+  xy: 622, 872
+  size: 53, 5
+  orig: 53, 5
+  offset: 0, 0
+  index: -1
+guaiwu0010
+  rotate: true
+  xy: 70, 307
+  size: 82, 15
+  orig: 82, 15
+  offset: 0, 0
+  index: -1
+guaiwu0011
+  rotate: true
+  xy: 463, 635
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+guaiwu0012
+  rotate: true
+  xy: 470, 640
+  size: 90, 39
+  orig: 90, 39
+  offset: 0, 0
+  index: -1
+guaiwu0013
+  rotate: true
+  xy: 200, 110
+  size: 61, 8
+  orig: 61, 8
+  offset: 0, 0
+  index: -1
+jingling0001
+  rotate: true
+  xy: 108, 317
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+jingling0002
+  rotate: true
+  xy: 987, 930
+  size: 90, 21
+  orig: 90, 21
+  offset: 0, 0
+  index: -1
+jingling0003
+  rotate: false
+  xy: 370, 311
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+jingling0004
+  rotate: false
+  xy: 126, 490
+  size: 136, 124
+  orig: 136, 124
+  offset: 0, 0
+  index: -1
+jingling0005
+  rotate: true
+  xy: 87, 307
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+jingling0006
+  rotate: false
+  xy: 292, 290
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+jingling0006_1
+  rotate: true
+  xy: 1010, 993
+  size: 27, 8
+  orig: 27, 8
+  offset: 0, 0
+  index: -1
+jingling0007
+  rotate: true
+  xy: 976, 874
+  size: 51, 9
+  orig: 51, 9
+  offset: 0, 0
+  index: -1
+jingling0007_1
+  rotate: true
+  xy: 107, 340
+  size: 49, 11
+  orig: 49, 11
+  offset: 0, 0
+  index: -1
+jingling0008
+  rotate: false
+  xy: 407, 575
+  size: 53, 22
+  orig: 53, 22
+  offset: 0, 0
+  index: -1
+jingling0008_1
+  rotate: true
+  xy: 390, 536
+  size: 59, 15
+  orig: 59, 15
+  offset: 0, 0
+  index: -1
+jingling0009
+  rotate: true
+  xy: 407, 599
+  size: 45, 54
+  orig: 45, 54
+  offset: 0, 0
+  index: -1
+jingling0010
+  rotate: false
+  xy: 515, 734
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+jingling0011
+  rotate: false
+  xy: 407, 554
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+jingling0012
+  rotate: false
+  xy: 987, 900
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+jingling0013
+  rotate: false
+  xy: 222, 273
+  size: 50, 13
+  orig: 50, 13
+  offset: 0, 0
+  index: -1
+jingling0013_1
+  rotate: true
+  xy: 87, 332
+  size: 57, 18
+  orig: 57, 18
+  offset: 0, 0
+  index: -1
+shubiao
+  rotate: false
+  xy: 630, 703
+  size: 107, 107
+  orig: 107, 107
+  offset: 0, 0
+  index: -1
+shuiwen0001
+  rotate: true
+  xy: 390, 597
+  size: 130, 15
+  orig: 130, 15
+  offset: 0, 0
+  index: -1
+shuiwen0002
+  rotate: true
+  xy: 968, 819
+  size: 106, 6
+  orig: 106, 6
+  offset: 0, 0
+  index: -1
+shuiwen0003
+  rotate: false
+  xy: 515, 746
+  size: 100, 9
+  orig: 100, 9
+  offset: 0, 0
+  index: -1
